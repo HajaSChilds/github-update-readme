@@ -59,7 +59,7 @@ outputs:
 
 branding:
   icon: activity
-  color: green
+  color: purple
 
 runs:
   using: 'node12'
